@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 
 ### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
+
+Привет, меня зовут Дмитрий, я студент. Сейчас учусь на ИТ-специалиста в Programming School 21. Изучаю Git и ещё несколько интересных технологий.
+
+<br />
+
 <a href="https://vk.com/your_profile">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
@@ -32,10 +37,6 @@ Here are some ideas to get you started:
 </a>
 
 <br />
-<br />
-
-Привет, меня зовут Дмитрий, я студент. Сейчас учусь на ИТ-специалиста в Programming School 21. Изучаю Git и ещё несколько интересных технологий.
-
 <br />
   
 <!-- **Languages and Tools:**  
