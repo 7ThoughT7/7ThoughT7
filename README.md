@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Привет, меня зовут Дмитрий, я студент. Сейчас учусь на ИТ-специалиста в Programming School 21. Изучаю Git и ещё несколько интересных технологий.
+### Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Привет, меня зовут Дмитрий, я студент Programming School 21.
 
 <br />
 
@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kalashnikov-ulmic/kalashnikov-ulmic/main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png?raw=true" width="400" height="280" />
  -->
  
-🚧 **Мои задачи на ближайшее время:**
+<!-- 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
 * [x] Прокачать свой профиль на Github
 * [ ] Закончить Programming School 21    
-<!-- TODO-IST:END -->
+<!-- TODO-IST:END --> -->
