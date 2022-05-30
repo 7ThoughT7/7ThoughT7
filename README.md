@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ### Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Привет, меня зовут Дмитрий, я студент Programming School 21.
+
+[![bmohamme's 42 stats](https://badge42.vercel.app/api/v2/cl3sk89mz000609mlz4hbd1n6/stats?cursusId=21&coalitionId=101)](https://github.com/JaeSeoKim/badge42)
 
 <br />
 
